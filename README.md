@@ -1,2 +1,4 @@
-# MysqlTest
-Test MySQL connect in cpp.
+Test MySQL connection in cpp.
+
+Env:
+Vs2012
